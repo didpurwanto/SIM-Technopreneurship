@@ -1,0 +1,2 @@
+daftar pertanyaan:
+1. pada saat update status ijazah, pengupdaten status dilakukan per kelompok atau per mahasiswa?

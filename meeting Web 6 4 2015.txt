@@ -1,0 +1,20 @@
+form upload proposal
+
+- judul
+- skema
+- tahun
+- jumlah dana yang diusulkan
+- anggota(nama, nrp, jurusan)
+- upload file proposal
+- abstrak
+
+
+
+KTM hanya ketua saat registrasi
+
+
+mails
+
+dana yang diusulkan dan dana yang disetujui
+
+

@@ -1,0 +1,61 @@
+tanggal
+simpan session skema
+simpan session tahun
+queri untuk select semua proposal->select tahun dan skema masih hardcode
+
+perubahan
+status prosal
+rekap semua proposal
+koreksi di monev bulanan
+
+view
+tambah berita
+monev_bulanan
+notif tambah berita
+
+controller
+tambah berita
+penilaian MHS
+
++ update password
++ ganti ketua
++ status kelompok saat ini
+
++ mengajukan proposal
++ melihat status proposal
+
++ monev bulanan
+- monev semester
+
+- ? penyelesaian usaha 
+
+- pengunduran diri 
+
+---------------------------------------------------
+KARYAWAN
++ update password
+
++rekapsemua  proposal
+
++approve akun
+
+-ubah status ijazah
+-rekap penyelesaian usaha
+
+- persetujuan pengunduran diri
+-rekap pengunduran diri
+--------------------------
+PEMBIMBING
+
++ update password
+
++ rekap semua proposal
+
++ review monev bulanan
+
+--------------------------
+PEMBIMBING
++ update password
++rekap semua proposal
++review monev bulanan
+monev bulanan
